@@ -10,12 +10,11 @@ Awesome resources to move to and live in Barcelona.
 - [Housing](#housing)
 - [Banking](#banking)
 - [Internet](#internet)
-- [Health](#health)
 - [Work](#work)
 - [Entertainment](#entertainment)
 - [Learn](#learn)
-- [Kids](#kids)
 - [Help](#help)
+- [Other](#other)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!--lint enable awesome-list-item-->
@@ -39,11 +38,6 @@ Awesome resources to move to and live in Barcelona.
 - [Parlem](https://parlem.com/en/) - ISP, offer fiber optic and mobile telephony.
 - [Capa8](https://capa8.net/en/) - Indie ISP, offers fiber optic and mobile telephony.
 
-## Health
-
-Get a TSI to benefit from the public health system: <https://catsalut.gencat.cat/ca/coneix-catsalut/acces-sistema-salut/la-tsi/targeta-sanitaria-individual>
-
-You can have groceries delivered online with [Ulabox](https://www.ulabox.com/en)
 
 ## Work
 
@@ -67,13 +61,15 @@ You can have groceries delivered online with [Ulabox](https://www.ulabox.com/en)
 - [CNLP](https://www.cpnl.cat/cursos-de-catala/cursos-generals/) - Free introductory Catalan classes.
 - [Escola Oficial d'Idiomes](https://www.eoibd.cat/en/) - Offers Arabic, Basque, Catalan, Chinese, Dutch, English, French, German, Greek, Italian, Japanese, Korean, Portuguese, Russian, Spanish and other languages for public prices.
 
-## Kids
-
-- [Map of public kindergartens](https://w33.bcn.cat/planolBCN/en/guia/act/municipal-escoles-bressol-D020/angle/44.4/position/430916,4583697/)
-
 ## Help
 
 - [112](https://112.gencat.cat/es/el-112/que-es-el-112/index.html) - Telephone number for emergencies: police, ambulances, fire-fighters, etc.
 - [Office for Non-Discrimination](https://ajuntament.barcelona.cat/lgtbi/en/services/office-non-discrimination-0) - The OND acts against discrimination on the grounds of age, gender, sexual orientation, origin, religion, language, nationality, health and disability or in socio-economic situations, among other things.
 - [Domestic violence hotline](https://dones.gencat.cat/ca/ambits/violencia_masclista/recursos_atencio/telefon_900/) - For enquiries call +34900900120 or mail 900900120@gencat.cat.
 - [r/barcelona](http://reddit.com/r/barcelona) - City subreddit able to answer your questions.
+
+## Other
+
+- [CatSalut TSI FAQ](https://catsalut.gencat.cat/ca/coneix-catsalut/acces-sistema-salut/la-tsi/targeta-sanitaria-individual) - Explains how to register for public health coverage.
+- [Plànol de Barcelona - municipal-escoles-bressol-D020](https://w33.bcn.cat/planolBCN/en/guia/act/municipal-escoles-bressol-D020/angle/44.4/position/430916,4583697/) - Map of public kindergartens.
+- [Ulabox](https://www.ulabox.com/en) - App to get your groceries delivered.
