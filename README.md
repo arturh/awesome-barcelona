@@ -19,6 +19,8 @@ Awesome resources to move to and live in Barcelona.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!--lint enable awesome-list-item-->
 
+---
+
 ## Housing
 
 - [Barcelona's neighborhoods: where to live in Barcelona](https://www.expatica.com/es/moving/location/where-to-live-in-barcelona-101435/) - List of neighbourhoods for expats.
@@ -38,15 +40,17 @@ Awesome resources to move to and live in Barcelona.
 - [Parlem](https://parlem.com/en/) - ISP, offer fiber optic and mobile telephony.
 - [Capa8](https://capa8.net/en/) - Indie ISP, offers fiber optic and mobile telephony.
 
-
 ## Work
 
-- [Bumble](https://bumble.com/jobs?location=Barcelona%2C%20BC%2C%20ES)
-- [Preply](https://preply.com/en/careers?location=Barcelona%2C+Spain#vacancies)
-- [Thoughtworks](https://www.thoughtworks.com/careers/jobs)
-- [Stack Overflow jobs](https://stackoverflow.com/jobs?l=Barcelona%2C+Spain&d=20&u=Km)
-- [angel.co](https://angel.co/location/barcelona)
-- [LinkedIn](https://www.linkedin.com/jobs/jobs-in-barcelona)
+- [BMAT Careers](https://www.bmat.com/careers)
+- [Bumble Job Openings in Barcelona](https://bumble.com/jobs?location=Barcelona%2C%20BC%2C%20ES)
+- [Preply Job Openings in Barcelona](https://preply.com/en/careers?location=Barcelona%2C+Spain#vacancies)
+- [Rakuten.tv work with us](https://rakuten.wd1.myworkdayjobs.com/RakutenTV/0/refreshFacet/318c8bb6f553100021d223d9780d30be)
+- [Thoughtworks Job Openings in Barcelona](https://www.thoughtworks.com/careers/jobs)
+- [Travelperk Careers](https://www.travelperk.com/careers/)
+- [Typeform Careers](https://www.typeform.com/careers/)
+- [106 Barcelona Startups to Watch in 2021](https://www.seedtable.com/startups-barcelona)
+- [Barcelona Activa](https://www.barcelonactiva.cat/en/home) - Advice, training, support and networking for professionals, entrepreneurs, the self-employed and companies.
 
 ## Entertainment
 
