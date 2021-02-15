@@ -1,10 +1,9 @@
-# Awesome Barcelona
+# Awesome Barcelona [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+<!--lint disable awesome-list-item-->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+## Contents
 
 - [Housing](#housing)
 - [Banking](#banking)
@@ -17,12 +16,13 @@
 - [Help](#help)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!--lint enable awesome-list-item-->
 
 
 Awesome resources to move to and live in Barcelona.
 
 ## Housing
-- [Barcelona’s neighborhoods: where to live in Barcelona](https://www.expatica.com/es/moving/location/where-to-live-in-barcelona-101435/) - List of neighbourhoods for expats.
+- [Barcelona's neighborhoods: where to live in Barcelona](https://www.expatica.com/es/moving/location/where-to-live-in-barcelona-101435/) - List of neighbourhoods for expats.
 - [Habitaclia](https://english.habitaclia.com/rent-home-in-barcelona/province_barcelona-barcelones-area_6/buscardistrito.htm)
 - [Fotocasa](https://www.fotocasa.es/en/rental/homes/barcelona-capital/all-zones/l?latitude=41.3854&longitude=2.1775&combinedLocationIds=724,9,8,232,376,8019,0,0,0)
 - [Idealista](https://www.idealista.com/en/alquiler-viviendas/barcelona-barcelona/)
