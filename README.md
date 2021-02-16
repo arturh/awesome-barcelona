@@ -77,3 +77,4 @@ Awesome resources to move to and live in Barcelona.
 - [CatSalut TSI FAQ](https://catsalut.gencat.cat/ca/coneix-catsalut/acces-sistema-salut/la-tsi/targeta-sanitaria-individual) - Explains how to register for public health coverage.
 - [Plànol de Barcelona - municipal-escoles-bressol-D020](https://w33.bcn.cat/planolBCN/en/guia/act/municipal-escoles-bressol-D020/angle/44.4/position/430916,4583697/) - Map of public kindergartens.
 - [Ulabox](https://www.ulabox.com/en) - App to get your groceries delivered.
+- [Barcinno's Weekly Tech Update](https://www.getrevue.co/profile/Barcinno) - Newsletter with the latest in Barcelona tech, startups and innovation!
